@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "status": "Completed",
+    "priority": 3,
+    "deadline": "2023-12-31"
+  },
+  {
+    "id": 2,
+    "title": "Read Python book",
+    "status": "Pending",
+    "priority": 2,
+    "deadline": null
+  },
+  {
+    "id": 3,
+    "title": "Read C++ book",
+    "status": "Pending",
+    "priority": 3,
+    "deadline": null
+  },
+  {
+    "id": 4,
+    "title": "Read C++ book",
+    "status": "Pending",
+    "priority": 3,
+    "deadline": null
+  }
+]
